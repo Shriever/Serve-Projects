@@ -1,0 +1,11 @@
+{
+  "name": "serve-projects",
+  "version": "1.0.0",
+  "description": "serve a few projects I made",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Levi Lieberman",
+  "license": "ISC"
+}
